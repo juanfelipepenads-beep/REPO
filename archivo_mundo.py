@@ -1,0 +1,1 @@
+print("adios esto fue desarrollado por mi")
